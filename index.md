@@ -5,6 +5,9 @@
 ##### H5 Header
 ###### H6 Header
 
+## Advanced Formatting Reference
+[Advanced Formatting from Git](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
+
 ## Text Manipulation
 sample text
 **Bold Text**
